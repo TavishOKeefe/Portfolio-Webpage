@@ -38,6 +38,7 @@ body {
 
 .jumbotron {
   background-color:  #85C1E9;
+  border: 4px solid black;
 }
 
 .resume {
@@ -48,7 +49,8 @@ body {
 
 .work img {
   float: right;
-  width:20%
+  width: 20%;
+  border: 4px solid black;
 }
 
 .special {
