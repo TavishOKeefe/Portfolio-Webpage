@@ -38,3 +38,8 @@ body {
 .jumbotron {
   background-color:  #D5DBDB;
 }
+
+.resume {
+  width:70%;
+  padding: 6px;
+}
