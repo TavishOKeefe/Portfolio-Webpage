@@ -17,4 +17,5 @@ h4 {
 .container img {
   width: 15%;
   height: auto;
+  float: right;
 }
