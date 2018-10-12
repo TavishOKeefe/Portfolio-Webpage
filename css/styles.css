@@ -33,6 +33,7 @@ h4 {
 body {
   font-family: courier, monospace;
   margin: 15px;
+  background-color: #ECF0F1
 }
 
 .jumbotron {
@@ -40,6 +41,12 @@ body {
 }
 
 .resume {
+  float: left;
   width:70%;
   padding: 6px;
+}
+
+.work img {
+  float: right;
+  width:20%
 }
