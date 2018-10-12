@@ -6,7 +6,7 @@
 
 ## Description
 
-_{This site page contains information regarding Tavish OKeefe's present postion within society, previous work experience, current and working projects, images, and a number of examples of code he recently learned. }_
+_This site page contains information regarding Tavish OKeefe's present postion within society, previous work experience, current and working projects, images, and a number of examples of code he recently learned._
 
 ## Setup/Installation Requirements
 
@@ -14,14 +14,14 @@ _{This site page contains information regarding Tavish OKeefe's present postion 
 
 ## Support and contact details
 
-_{okeefe.tavish@gmail.com}_
+_okeefe.tavish@gmail.com_
 
 ## Technologies Used
 
-_{HTML, CSS, BOOTSTRAP.}_
+_HTML, CSS, BOOTSTRAP._
 
 ### License
 
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
+*Determine the license under which this application can be used.  See below for more details on licensing.*
 
-Copyright (c) 2016 **_{Tavish OKeefe, Epicodus}_**
+Copyright (c) 2016 **_Tavish OKeefe, Epicodus_**

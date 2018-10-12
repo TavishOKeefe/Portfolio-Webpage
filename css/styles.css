@@ -1,5 +1,5 @@
 h1 {
-  text-align: center;
+  text-align: left;
 }
 
 h2 {
@@ -7,15 +7,18 @@ h2 {
 }
 
 h3 {
-  text-align: center;
 }
 
 h4 {
-  text-align: center;
+  text-align: left;
 }
 
 .container img {
   width: 15%;
   height: auto;
   float: right;
+}
+
+.projects {
+  border: 4px solid black
 }
